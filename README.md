@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krutik
-- 👀 I’m interested in Web development, Python development 
 - 🏫 I'm currently pursuing my B.tech degree in Computer science and Engineering 
+- 👀 I’m interested in Web development, Python development 
 - 🌱 I’m currently learning Python and web development 
 - 💞️ I’m looking to collaborate on N/A
 - 📫 Reach me https://linktr.ee/krutik.2710
