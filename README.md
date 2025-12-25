@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m Krutik<br>🔭 Working on improving the reliability, scalability, and operability of large-scale<br>infrastructure through automation, observability, and disciplined incident management.<br><br>👯 Open to collaborating on projects involving distributed systems, infrastructure automation,<br>monitoring platforms, and Kubernetes-based workloads.<br><br>🤝 Looking to learn and contribute to discussions around SRE best practices, capacity planning,<br>service-level objectives (SLOs), and failure analysis in production systems.<br><br>🌱 Currently deepening my understanding of Kubernetes internals, cloud-native system design,<br>and reliability engineering at scale.<br><br>💬 Ask me about Linux systems, AWS infrastructure, Terraform, Prometheus/Grafana,<br>incident response, and postmortem-driven improvements.<br><br>⚡ Fun fact: I enjoy analyzing failure modes to design systems that degrade gracefully under load.<br>
+👋 Hi, I’m Krutik  
+<br>🔭 Improving the reliability, scalability, and operability of large-scale infrastructure through automation, observability, and disciplined incident management.
+<br>👯 Open to collaborating on distributed systems, infrastructure automation, monitoring platforms, and Kubernetes workloads.  
+<br>🤝 Learning and contributing to SRE practices around capacity planning, SLOs, and production failure analysis.  
+<br>🌱 Deepening my understanding of Kubernetes internals, cloud-native system design, and reliability engineering at scale.  
+<br>💬 Ask me about Linux, AWS, Terraform, Prometheus/Grafana, incident response, and postmortem-driven improvements.  
+<br>⚡ Fun fact: I enjoy analyzing failure modes to build systems that degrade gracefully under load.  
+
 
 
 ## 🌐 Socials:
