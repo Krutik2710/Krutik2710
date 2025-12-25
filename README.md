@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krutik.2710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krutik-ukunde/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krutiku2710@gmail.com) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,docker,dynamodb,git,grafana,jenkins,kubernetes,linux,notion,prometheus,py,redhat,terraform,ubuntu,windows,)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Krutik2710&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
