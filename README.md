@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krutik.2710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krutik-ukunde/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krutiku2710@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krutik.2710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krutik-ukunde/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krutiku2710@gmail.com) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,docker,dynamodb,git,grafana,jenkins,kubernetes,linux,notion,prometheus,py,redhat,terraform,ubuntu,windows,)](https://skillicons.dev)
