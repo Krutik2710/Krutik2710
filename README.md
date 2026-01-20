@@ -17,9 +17,9 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krutiku2710@gmail.com) 
 
 # 💻 Tech Stack:
-<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,docker,dynamodb,git,grafana,jenkins,kubernetes,linux,notion,prometheus,py,redhat,terraform,ubuntu,windows)](https://skillicons.dev)
-</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Krutik2710&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
