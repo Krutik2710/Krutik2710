@@ -32,11 +32,11 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 <p align="center">
   <a href="assets/aws-saa.png">
-    <img src="assets/aws-saa.png" alt="AWS SAA" height="80"/>
+    <img src="assets/aws-saa.png" alt="AWS SAA" height="120"/>
   </a>
   &emsp;&emsp;
   <a href="assets/cka.png">
-    <img src="assets/cka.png" alt="CKA" height="80"/>
+    <img src="assets/cka.png" alt="CKA" height="120"/>
   </a>
 </p>
 
