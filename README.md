@@ -165,20 +165,12 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ## 🔖 Featured Repositories
 
-<div align="center">
-  <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=flask-postgresql-todo-app&theme=github_dark&hide_border=true" alt="Flask PostgreSQL Todo App"/>
-  </a>
-  <a href="https://github.com/Krutik2710/Jenkins-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=Jenkins-Project&theme=github_dark&hide_border=true" alt="Jenkins Project"/>
-  </a>
-  <a href="https://github.com/Krutik2710/my-devops-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=my-devops-project&theme=github_dark&hide_border=true" alt="DevOps Project"/>
-  </a>
-  <a href="https://github.com/Krutik2710/my-devops-project-aws-architecture-with-terraform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=my-devops-project-aws-architecture-with-terraform&theme=github_dark&hide_border=true" alt="Terraform AWS Infrastructure"/>
-  </a>
-</div>
+## 🔖 Featured Repositories
+
+[![Flask PostgreSQL Todo App](https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=flask-postgresql-todo-app&theme=github_dark&hide_border=true)](https://github.com/Krutik2710/flask-postgresql-todo-app)
+[![Jenkins Project](https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=Jenkins-Project&theme=github_dark&hide_border=true)](https://github.com/Krutik2710/Jenkins-Project)
+[![DevOps Project](https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=my-devops-project&theme=github_dark&hide_border=true)](https://github.com/Krutik2710/my-devops-project)
+[![Terraform AWS Infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=my-devops-project-aws-architecture-with-terraform&theme=github_dark&hide_border=true)](https://github.com/Krutik2710/my-devops-project-aws-architecture-with-terraform)
 
 ---
 
