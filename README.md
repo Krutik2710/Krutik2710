@@ -12,9 +12,7 @@
 
 <p>
 
-AWS Certified Solutions Architect – Associate &nbsp;|&nbsp;
-
-Certified Kubernetes Administrator (CKA)
+AWS Certified Solutions Architect – Associate &nbsp;|&nbsp; Certified Kubernetes Administrator (CKA)
 
 </p>
 
