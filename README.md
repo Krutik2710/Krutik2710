@@ -1,29 +1,46 @@
 <div align="center">
 
-<img width="1200" height="675" alt="8351153" src="https://github.com/user-attachments/assets/1643913e-9353-44c9-8bc1-ad28e3817796" />
+<img src="" width="100%" alt="Hero Banner"/>
 
-<img src="assets/hero.gif" width="100%" alt="Hero Banner"/>
-
-<br><br>
+<br>
 
 # Hi, I'm Krutik 👋
 
 ### Cloud Infrastructure Engineer • DevOps • Site Reliability Engineering
 
 <p>
-
-AWS Certified Solutions Architect – Associate &nbsp;|&nbsp; Certified Kubernetes Administrator (CKA)
-
+Building reliable, scalable, and automated cloud infrastructure through Kubernetes, Infrastructure as Code, GitOps, CI/CD, and Observability.
 </p>
 
-<p>
+<br>
 
-Building resilient cloud infrastructure through automation, Kubernetes, Infrastructure as Code, GitOps, and observability.
+<a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
+<a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<a href="YOUR_CREDLY">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
 
 </div>
-## 🚀 Building Reliable Cloud Infrastructure
+
+---
+
+<h2 align="center">Building Reliable Cloud Infrastructure</h2>
+
+<p align="center">
+Designing scalable, automated, and resilient cloud platforms with DevOps and Site Reliability Engineering practices.
+</p>
+
+<br>
 
 I work on the infrastructure most people never think about — until it breaks.
 
@@ -33,12 +50,20 @@ Over the past few years, my focus has shifted from traditional infrastructure op
 
 Outside of production support, I build production-inspired cloud-native projects on AWS to deepen my understanding of modern infrastructure. My current learning journey focuses on Kubernetes, CI/CD, GitOps, monitoring, and contributing to the CNCF ecosystem through Meshery.
 
-## 📈 Professional Impact
+---
+
+<h2 align="center">Professional Impact</h2>
+
+<p align="center">
+A snapshot of the scale, reliability, and operational impact of my work.
+</p>
+
+<br>
 
 <div align="center">
 
-| Environment | Scale |
-|-------------|------:|
+| Achievement | Impact |
+|:-----------|:------:|
 | 🌍 Enterprise Environments Managed | **1,400+** |
 | 🚨 High Priority Incidents Resolved | **1,000+** |
 | 📉 MTTR Improvement | **35%** |
@@ -48,13 +73,20 @@ Outside of production support, I build production-inspired cloud-native projects
 
 </div>
 
-## 🔭 What I'm Currently Working On
+---
+
+<h2 align="center">Current Focus</h2>
+
+<p align="center">
+Building production-inspired cloud platforms while contributing toward the CNCF ecosystem.
+</p>
+
+<br>
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 End-to-End GitOps on AWS
 
@@ -62,50 +94,74 @@ Building a production-style Flask + PostgreSQL application that evolves from a t
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📖 CNCF Open Source Journey
+### 🌍 CNCF Open Source Journey
 
 Preparing my first contribution to Meshery while learning Go and becoming more involved in the CNCF ecosystem, with the long-term goal of participating in the Linux Foundation LFX Mentorship Program.
 
 </td>
 
 </tr>
-
 </table>
 
-## 🏆 Certifications
+---
 
-<img width="204" height="204" alt="cka-certified-kubernetes-administrator" src="https://github.com/user-attachments/assets/bbd82f97-fefb-4bd7-a279-01323de06b4c" /> <img width="204" height="204" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/aa0d4cc9-d34f-4125-97c2-fb5afac207ef" />
+<h2 align="center">Core Technologies</h2>
 
+<p align="center">
+Technologies I use to build, automate, and operate modern cloud infrastructure.
+</p>
 
-## 🌱 Learning Roadmap
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,git,linux,bash,python,prometheus,grafana,postgres&perline=7"/>
+
+</div>
+
+---
+
+<h2 align="center">Certifications</h2>
+
+<p align="center">
+Industry certifications validating my cloud and Kubernetes expertise.
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</div>
+
+---
+
+<h2 align="center">Learning Roadmap</h2>
+
+<p align="center">
+Continuously expanding my DevOps and SRE skillset through hands-on projects and open-source contributions.
+</p>
 
 ```text
 ✔ Linux
-
 ✔ AWS
-
 ✔ Terraform
-
 ✔ Docker
-
 ✔ Kubernetes
-
 ✔ GitHub Actions
-
 ✔ Jenkins
-
 ✔ ArgoCD
 
 ◉ OpenTelemetry
-
 ◉ Go
-
 ◉ CNCF Contribution
 
 ○ LFX Mentorship
-
 ○ Service Mesh
-
 ○ MLOps
+```
