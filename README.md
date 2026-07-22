@@ -2,6 +2,7 @@
 
 <img src="" width="100%" alt="Hero Banner"/>
 
+
 <br>
 
 # Hi, I'm Krutik 👋
@@ -133,7 +134,7 @@ Industry certifications validating my cloud and Kubernetes expertise.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="[https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white](https://www.credly.com/badges/d6451cb2-57be-440f-80f2-9a5cca636bde/public_url)"/>
 
 <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
