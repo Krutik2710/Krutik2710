@@ -165,7 +165,14 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ## 🔖 Featured Repositories
 
-[![GitHub Card](https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/Jenkins-Project)](https://github.com/Krutik2710/Jenkins-Project)
+<a href="https://github.com/Krutik2710/Jenkins-Project">
+  <img
+    src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/Jenkins-Project"
+    alt="Jenkins Project"
+    height="50"
+  />
+</a>
+
 ---
 
 ## 📊 By the Numbers
