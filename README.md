@@ -87,23 +87,23 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 ---
 
 
+## 💡 Projects
+
 <div align="left">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="16">
     <tr>
-      <td width="50%">
-        <h3 align="center"><strong>Flask PostgreSQL GitOps on EKS</strong></h3>
+      <td width="50%" valign="top">
+        <h3 align="center"><strong>🚀 Flask PostgreSQL GitOps on EKS</strong></h3>
         </br>
         <div align="center">
           <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
-            <img src="assets/todo-app-arch.png" alt="Flask PostgreSQL GitOps on EKS" height="200"/>
+            <img src="assets/todo-app-arch.png" alt="Flask PostgreSQL GitOps on EKS" width="100%"/>
           </a>
           </br></br>
-          <p>
-            <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
-              <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-            </a>
-          </p>
-          </br>
+          <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+          </a>
+          </br></br>
           <p align="left">
             End-to-end GitOps pipeline deploying a Flask + PostgreSQL app on Amazon EKS. GitHub Actions builds and pushes Docker images, ArgoCD syncs manifests and reconciles the cluster. Zero-downtime rolling deployments with ALB Ingress and Route 53.
           </p>
@@ -125,20 +125,18 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
           </p>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center"><strong>Jenkins End-to-End CI/CD</strong></h3>
+      <td width="50%" valign="top">
+        <h3 align="center"><strong>⚙️ Jenkins End-to-End CI/CD</strong></h3>
         </br>
         <div align="center">
           <a href="https://github.com/Krutik2710/Jenkins-Project">
-            <img src="assets/jenkins-arch.png" alt="Jenkins End-to-End CI/CD" height="200"/>
+            <img src="assets/jenkins-arch.png" alt="Jenkins End-to-End CI/CD" width="100%"/>
           </a>
           </br></br>
-          <p>
-            <a href="https://github.com/Krutik2710/Jenkins-Project">
-              <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-            </a>
-          </p>
-          </br>
+          <a href="https://github.com/Krutik2710/Jenkins-Project">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+          </a>
+          </br></br>
           <p align="left">
             Full CI/CD pipeline on AWS using Jenkins, Maven, and SonarQube for code quality gates. Passing builds trigger Docker image creation, push to Docker Hub, and GitOps-based deployment to Kubernetes via ArgoCD. Slack and email alerts on failure.
           </p>
@@ -163,7 +161,6 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
     </tr>
   </table>
 </div>
-
 
 ---
 
