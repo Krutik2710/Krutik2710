@@ -166,37 +166,23 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 ## 🔖 Featured Repositories
 
 ---
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Krutik2710/Jenkins-Project">
+    <img width="400" src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/Jenkins-Project">
+  </a>
+  <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
+    <img width="400" src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/flask-postgresql-todo-app">
+  </a>
+</p>
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding: 10px;" align="center">
-      <a href="https://github.com/Krutik2710/Jenkins-Project">
-        <img src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/Jenkins-Project" alt="Jenkins Project" width="400">
-      </a>
-    </td>
-    <td style="border: none; padding: 10px;" align="center">
-      <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
-        <img src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/flask-postgresql-todo-app" alt="Flask PostgreSQL Todo App" width="400">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="border: none; padding: 10px;" align="center">
-      <a href="https://github.com/Krutik2710/my-devops-project">
-        <img src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/my-devops-project" alt="DevOps Project" width="400">
-      </a>
-    </td>
-    <td style="border: none; padding: 10px;" align="center">
-      <a href="https://github.com/Krutik2710/my-devops-project-aws-architecture-with-terraform">
-        <img src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/my-devops-project-aws-architecture-with-terraform" alt="Terraform AWS Infrastructure" width="400">
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Krutik2710/my-devops-project">
+    <img width="400" src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/my-devops-project">
+  </a>
+  <a href="https://github.com/Krutik2710/my-devops-project-aws-architecture-with-terraform">
+    <img width="400" src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/my-devops-project-aws-architecture-with-terraform">
+  </a>
+</p>
 ---
 
 ## 📊 By the Numbers
