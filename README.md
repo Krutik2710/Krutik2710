@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://linkedin.com/in/krutik-ukunde/">
-    <img src="assets/hero.gif" alt="Krutik Ukunde" width="100%" />
+    <img src="spidy.jpg" alt="Krutik Ukunde" width="100%" />
   </a>
 </div>
 
