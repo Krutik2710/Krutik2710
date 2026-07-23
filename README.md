@@ -216,11 +216,18 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/github-snake.svg"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/ocean-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/ocean.svg"
+    />
+    <img
+      alt="Snake animation"
+      src="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/ocean.svg"
+    />
   </picture>
 </div>
   </br>
