@@ -165,16 +165,33 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ## 🔖 Featured Repositories
 
-<a href="https://github.com/Krutik2710/Jenkins-Project">
-  <img
-    src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/Jenkins-Project"
-    alt="Jenkins Project"
-    height="50"
-  />
-</a>
-
-[![GitHub Repo Card](https://githubcard.com/g/8HENkOU7YW15.svg)
-https://githubcard.com/g/8HENkOU7YW15.svg
+---
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Krutik2710/Jenkins-Project" target="_blank">
+        <img src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/Jenkins-Project" alt="Jenkins Project" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Krutik2710/flask-postgresql-todo-app" target="_blank">
+        <img src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/flask-postgresql-todo-app" alt="Flask PostgreSQL Todo App" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Krutik2710/my-devops-project" target="_blank">
+        <img src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/my-devops-project" alt="DevOps Project" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Krutik2710/my-devops-project-aws-architecture-with-terraform" target="_blank">
+        <img src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/my-devops-project-aws-architecture-with-terraform" alt="Terraform AWS Infrastructure" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 By the Numbers
