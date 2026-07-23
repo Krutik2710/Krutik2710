@@ -216,23 +216,13 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 <div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/ocean.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/ocean.svg"
-    />
-    <img
-      alt="Snake animation"
-      src="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/ocean.svg"
-    />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/github-snake.svg"/>
   </picture>
 </div>
-  <img src="[https://github-readme-stats.vercel.app/api?username=Krutik2710&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Krutik2710)"/>
-  </br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Krutik2710&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
   </br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krutik2710&theme=github-dark&point=00000000&radius=16&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
