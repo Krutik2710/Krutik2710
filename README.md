@@ -218,7 +218,7 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
   <hr/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Krutik2710/Krutik2710/output/ocean.svg" alt="Snake animation" />
 </p>
 
 <hr/>
