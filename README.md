@@ -166,23 +166,29 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 ## 🔖 Featured Repositories
 
 ---
-<p align="center">
+<div align="center">
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/Krutik2710/Jenkins-Project">
     <img width="400" src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/Jenkins-Project">
   </a>
+
   <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
     <img width="400" src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/flask-postgresql-todo-app">
   </a>
-</p>
+</div>
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/Krutik2710/my-devops-project">
     <img width="400" src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/my-devops-project">
   </a>
+
   <a href="https://github.com/Krutik2710/my-devops-project-aws-architecture-with-terraform">
     <img width="400" src="https://opengraph.githubassets.com/54c6dafcd9f93d895328fdc57409345555ea517c7c4d4ad9b75d0a4208404735/Krutik2710/my-devops-project-aws-architecture-with-terraform">
   </a>
-</p>
+</div>
+
+</div>
 ---
 
 ## 📊 By the Numbers
