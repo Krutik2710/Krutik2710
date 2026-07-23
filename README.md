@@ -165,7 +165,8 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ## 🔖 Featured Repositories
 
-![GitHub Repo Card](https://githubcard.com/Krutik2710/flask-postgresql-todo-app.svg)
+![GitHub Repo Card]([https://githubcard.com/Krutik2710/flask-postgresql-todo-app.svg](https://githubcard.com/Krutik2710/flask-postgresql-todo-app.svg?d=aiyM3Sfj8Ad5))
+
 ---
 
 ## 📊 By the Numbers
