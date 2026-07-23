@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 13 * * *' # runs at every 1PM UTC
 
+permissions:
+  contents: write
+  
 jobs:
   build:
     name: Jobs to update snake grid
