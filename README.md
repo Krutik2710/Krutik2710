@@ -215,6 +215,17 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 ## 📈 GitHub Stats
 
 <div align="center">
+  <hr/>
+
+<div align="center">
+  
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
   <img src="[https://github-readme-stats.vercel.app/api?username=Krutik2710&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Krutik2710)"/>
   </br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Krutik2710&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
