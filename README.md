@@ -165,12 +165,7 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ## 🔖 Featured Repositories
 
-[[![GitHub Repo Card](https://githubcard.com/Krutik2710/flask-postgresql-todo-app.svg)](https://githubcard.com/Krutik2710/flask-postgresql-todo-app.svg?d=xxeUiP-14l93)](https://githubcard.com/Krutik2710/flask-postgresql-todo-app.svg?d=xxeUiP-14l93)
-[![Flask PostgreSQL Todo App](https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=flask-postgresql-todo-app&theme=github_dark&hide_border=true)](https://github.com/Krutik2710/flask-postgresql-todo-app)
-[![Jenkins Project](https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=Jenkins-Project&theme=github_dark&hide_border=true)](https://github.com/Krutik2710/Jenkins-Project)
-[![DevOps Project](https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=my-devops-project&theme=github_dark&hide_border=true)](https://github.com/Krutik2710/my-devops-project)
-[![Terraform AWS Infrastructure](https://github-readme-stats.vercel.app/api/pin/?username=Krutik2710&repo=my-devops-project-aws-architecture-with-terraform&theme=github_dark&hide_border=true)](https://github.com/Krutik2710/my-devops-project-aws-architecture-with-terraform)
-
+https://githubcard.com/Krutik2710/flask-postgresql-todo-app.svg?d=ubDaEHtE2k6v
 ---
 
 ## 📊 By the Numbers
