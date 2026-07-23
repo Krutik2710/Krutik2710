@@ -84,81 +84,64 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ## 💡 Projects
 
-<div align="left">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center"><strong>Flask PostgreSQL GitOps on EKS</strong></h3>
-        </br>
-        <div align="center">
-          <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
-            <img src="assets/todo-app-arch.png" alt="Flask PostgreSQL GitOps on EKS" height="200"/>
-          </a>
-          </br></br>
-          <p>
-            <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
-              <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-            </a>
-          </p>
-          </br>
-          <p align="left">
-            End-to-end GitOps pipeline deploying a Flask + PostgreSQL app on Amazon EKS. GitHub Actions builds and pushes Docker images, ArgoCD syncs manifests and reconciles the cluster. Zero-downtime rolling deployments with ALB Ingress and Route 53.
-          </p>
-          </br>
-          <p>
-            <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-            &nbsp;
-            <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-            &nbsp;
-            <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-            &nbsp;
-            <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-            &nbsp;
-            <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-            &nbsp;
-            <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-            &nbsp;
-            <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center"><strong>Jenkins End-to-End CI/CD</strong></h3>
-        </br>
-        <div align="center">
-          <a href="https://github.com/Krutik2710/Jenkins-Project">
-            <img src="assets/jenkins-arch.png" alt="Jenkins End-to-End CI/CD" height="200"/>
-          </a>
-          </br></br>
-          <p>
-            <a href="https://github.com/Krutik2710/Jenkins-Project">
-              <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github"/>
-            </a>
-          </p>
-          </br>
-          <p align="left">
-            Full CI/CD pipeline on AWS using Jenkins, Maven, and SonarQube for code quality gates. Passing builds trigger Docker image creation, push to Docker Hub, and GitOps-based deployment to Kubernetes via ArgoCD. Slack and email alerts on failure.
-          </p>
-          </br>
-          <p>
-            <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-            &nbsp;
-            <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-            &nbsp;
-            <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
-            &nbsp;
-            <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-            &nbsp;
-            <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-            &nbsp;
-            <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-            &nbsp;
-            <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+<div style="display:inline-block; width:45%; vertical-align:top; margin-right:20px;">
+
+<!-- Project 1 -->
+
+<h3 align="center">Flask PostgreSQL GitOps on EKS</h3>
+
+<p align="center">
+<a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
+<img src="assets/todo-app-arch.png" height="200">
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
+<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+<p align="left">
+End-to-end GitOps pipeline deploying a Flask + PostgreSQL app on Amazon EKS...
+</p>
+
+<p align="center">
+<!-- badges -->
+</p>
+
+</div>
+
+<div style="display:inline-block; width:45%; vertical-align:top;">
+
+<!-- Project 2 -->
+
+<h3 align="center">Jenkins End-to-End CI/CD</h3>
+
+<p align="center">
+<a href="https://github.com/Krutik2710/Jenkins-Project">
+<img src="assets/jenkins-arch.png" height="200">
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Krutik2710/Jenkins-Project">
+<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+<p align="left">
+Full CI/CD pipeline on AWS using Jenkins...
+</p>
+
+<p align="center">
+<!-- badges -->
+</p>
+
+</div>
+
 </div>
 
 ---
@@ -189,6 +172,7 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 </div>
 
 </div>
+
 ---
 
 ## 📊 By the Numbers
