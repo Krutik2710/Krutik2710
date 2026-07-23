@@ -173,6 +173,8 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
   />
 </a>
 
+![GitHub Repo Card](https://githubcard.com/Krutik2710/flask-postgresql-todo-app.svg?d=8HENkOU7YW15)
+
 ---
 
 ## 📊 By the Numbers
