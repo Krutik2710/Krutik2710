@@ -86,9 +86,6 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ---
 
-
-## 💡 Projects
-
 <div align="left">
   <table border="0" cellspacing="0" cellpadding="16">
     <tr>
