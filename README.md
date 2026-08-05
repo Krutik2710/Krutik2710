@@ -215,10 +215,13 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ## 🌱 What I'm Working On
 
-- 🚀 **Flask PostgreSQL → EKS** — deploying a Python + PostgreSQL app through bare EC2 → Docker → Kubernetes → full GitOps with GitHub Actions and ArgoCD
-- ☸️ **CNCF / LFX Mentorship** — applying for the Linux Foundation LFX Mentorship program (Term 3, 2026) under CNCF, targeting a contribution to Meshery's CI/CD pipeline workflows
-- 🐹 **Learning Go** — working through the official Go tour and building CLI tools in preparation for CNCF open-source contributions
-- 📊 **MLOps toolchain** — studying MLflow, Kubeflow, and model serving on Kubernetes to extend my existing infra skills into the ML layer
+-  🚀 AI Platform on Kubernetes — building an end-to-end LLM platform with FastAPI, Ollama/vLLMs, RAG, PostgreSQL (pgvector), Kubernetes, GitHub Actions, and ArgoCD, following production-grade cloud-native architecture.
+
+- ☸️ CNCF / LFX Mentorship — applying for the Linux Foundation LFX Mentorship program (Term 3, 2026) under CNCF, targeting a contribution to Meshery's workflows.
+
+- 🐍 Learning Python — strengthening Python fundamentals while building cloud-native and AI infrastructure projects, with a focus on backend development, automation, and Kubernetes integrations.
+
+- 📊 MLOps & LLMOps — studying MLflow, Kubeflow, model serving, vector databases, embeddings, RAG, and Kubernetes-native AI deployment to extend my cloud infrastructure expertise into production AI systems.
 
 ---
 
