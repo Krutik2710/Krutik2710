@@ -28,7 +28,7 @@ I work on the infrastructure most people never think about — until it breaks.
 
 Currently a **Cloud Infrastructure & Operations Engineer at Cloud4C (Capgemini)**, managing hybrid cloud environments for **1,400+ enterprise clients** across VMware, Hyper-V, XenServer, and KVM — with a growing focus on automation, observability, and reliability engineering.
 
-I hold the **AWS Certified Solutions Architect – Associate** and **Certified Kubernetes Administrator (CKA)** certifications, and I'm actively building toward **SRE and Platform Engineering roles**.
+I hold the **AWS Certified Solutions Architect – Associate** and **Certified Kubernetes Administrator (CKA)** certifications, and I'm actively building toward **SRE, Platform Engineering and DevOps roles**.
 
 <p align="center">
   <a href="assets/aws-saa.png">
