@@ -49,6 +49,7 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
     />
   </a>
 </p>
+
 ---
 
 ## 🧰 Tech I Work With Daily
