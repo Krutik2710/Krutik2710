@@ -39,8 +39,16 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
     <img src="assets/cka.png" alt="CKA" height="120"/>
   </a>
 </p>
-<div><a href="https://cloud.layer5.io/user/264a3e6d-e6e3-46ac-9c41-e5a3a2abcad4?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
+<p align="center">
+  <a href="https://cloud.layer5.io/user/264a3e6d-e6e3-46ac-9c41-e5a3a2abcad4?tab=badges&badge=first-design">
+    <img
+      src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
+      alt="First Design"
+      height="120"
+    />
+  </a>
+</p>
 ---
 
 ## 🧰 Tech I Work With Daily
