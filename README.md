@@ -93,5 +93,6 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 ![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-0B0812?style=for-the-badge&logo=vmware&logoColor=607078&labelColor=0B0812)
 ![Citrix Hypervisor](https://img.shields.io/badge/Citrix%20Hypervisor-0B0812?style=for-the-badge&logo=citrix&logoColor=452170&labelColor=0B0812)
 ![Microsoft Hyper-V](https://img.shields.io/badge/Hyper--V-0B0812?style=for-the-badge&logo=windows&logoColor=0078D4&labelColor=0B0812)
+![AWS](https://img.shields.io/badge/AWS-0B0812?style=flat&logo=amazonaws&logoColor=FF9900&labelColor=0B0812&color=0B0812)
 
 </p>
