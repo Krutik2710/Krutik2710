@@ -56,21 +56,15 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 ## 📫 Let's connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="assets/profile/linkedin.png" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/your-linkedin-handle">
+    <img src="assets/profile/linkedin.png" width="85" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="assets/profile/gmail.png" alt="Gmail">
+  <a href="mailto:youremail@gmail.com">
+    <img src="assets/profile/gmail.png" width="80" alt="Gmail">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Krutik2710">
-    <img src="assets/profile/github.png" alt="GitHub">
+    <img src="assets/profile/github.png" width="80" alt="GitHub">
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <sub>Building reliable infrastructure, one system at a time.</sub>
 </p>
