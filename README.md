@@ -12,6 +12,12 @@ I work across **AWS, Kubernetes, Docker, Terraform, GitOps, CI/CD, and observabi
 
 I hold the **AWS Certified Solutions Architect – Associate** and **Certified Kubernetes Administrator (CKA)** certifications, and I'm continuously exploring cloud-native architecture and AI infrastructure.
 
+<p align="center">
+  <img src="assets/aws-saa.png" width="140" alt="AWS Certified Solutions Architect - Associate">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/cka.png" width="140" alt="Certified Kubernetes Administrator">
+</p>
+
 ### CURRENTLY EXPLORING
 
 `Kubernetes` · `Platform Engineering` · `SRE` · `Cloud-Native Architecture` · `AI Infrastructure`
@@ -28,3 +34,43 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 [<img src="assets/profile/flask-eks.png" width="49%" alt="Flask PostgreSQL GitOps on EKS">](https://github.com/Krutik2710/flask-postgresql-todo-app)
 
 ---
+
+## 💼 Experience
+
+**Cloud Infrastructure & Operations Engineer — Cloud4C (Capgemini)**  
+`Production Infrastructure` · `Hybrid Cloud` · `Virtualization` · `Observability`
+```
+- Managing 1,400+ production environments across VMware, Hyper-V, XenServer, and KVM.
+- Maintaining 99.9% uptime while handling critical incidents, infrastructure operations,
+  and SLA/SLO requirements.
+- Reduced MTTR by 35% and deployment time by 40% through automation, Infrastructure as Code,
+  and GitOps practices.
+- Working across Linux, Windows Server, networking, monitoring, disaster recovery,
+  and incident response in 24/7 production environments.
+```
+
+---
+
+---
+
+## 📫 Let's connect
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="assets/profile/linkedin.png" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="assets/profile/gmail.png" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Krutik2710">
+    <img src="assets/profile/github.png" alt="GitHub">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Building reliable infrastructure, one system at a time.</sub>
+</p>
