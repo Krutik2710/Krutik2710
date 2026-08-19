@@ -28,12 +28,12 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Krutik2710/ai-platform">
-        <img src="assets/projects/rag-platform.png" width="100%" alt="Cloud-Native RAG Platform">
+        <img src="assets/profile/rag-platform.png" width="100%" alt="Cloud-Native RAG Platform">
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
-        <img src="assets/projects/flask-eks.png" width="100%" alt="Flask PostgreSQL GitOps on EKS">
+        <img src="assets/profile/flask-eks.png" width="100%" alt="Flask PostgreSQL GitOps on EKS">
       </a>
     </td>
   </tr>
