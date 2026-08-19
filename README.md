@@ -1,4 +1,4 @@
-<img src="assets/profile/profile-hero.png" width="100%" alt="Krutik — Cloud Infrastructure & DevOps Engineer">
+<img width="1983" height="793" alt="ChatGPT Image Aug 19, 2026, 06_07_06 PM" src="https://github.com/user-attachments/assets/d30c44d3-8e92-48bb-8191-b5a2c360ddef" />
 
 ---
 
