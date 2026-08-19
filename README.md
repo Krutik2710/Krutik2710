@@ -1,8 +1,8 @@
-![Krutik](assets/profile/profile-hero.png)
+<img src="assets/profile/profile-hero.png" width="100%" alt="Krutik — Cloud Infrastructure & DevOps Engineer">
 
-## 01 / ABOUT
+<br>
 
-```text
+## ABOUT
 
 **Cloud Infrastructure & DevOps Engineer** focused on building reliable, automated infrastructure and cloud-native systems.
 
@@ -13,4 +13,3 @@ From infrastructure operations to cloud-native engineering, my focus is on **rel
 ### CURRENTLY EXPLORING
 
 `Kubernetes` · `Platform Engineering` · `SRE` · `Cloud-Native Architecture` · `AI Infrastructure`
-``````
