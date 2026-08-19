@@ -22,36 +22,20 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<table border="0">
+<table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🤖 Cloud-Native RAG Platform
-
-**Kubernetes · Llama 3.1 · RAG · GitOps**
-
-An end-to-end cloud-native RAG platform for document ingestion, vector search, and grounded LLM responses.
-
-**Stack:** React · FastAPI · PostgreSQL + pgvector · S3 · Docker · Kubernetes · GitHub Actions · ArgoCD · Prometheus · Grafana
-
-[🔗 View Project](YOUR_GITHUB_LINK) · [🎥 Walkthrough](YOUR_YOUTUBE_LINK)
+[![Cloud-Native RAG Platform](assets/projects/rag-platform.png)](https://github.com/Krutik2710/ai-platform)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### ☁️ Flask PostgreSQL — GitOps on EKS
-
-**AWS · Docker · Kubernetes · GitOps**
-
-A Flask + PostgreSQL application deployed on Amazon EKS, progressing from containerization to Kubernetes and automated GitOps delivery.
-
-**Stack:** Flask · PostgreSQL · Docker · EKS · GitHub Actions · ECR · ArgoCD · Kubernetes
-
-[🔗 View Project](YOUR_GITHUB_LINK)
+[![Flask PostgreSQL GitOps on EKS](assets/projects/flask-eks.png)](https://github.com/Krutik2710/flask-postgresql-todo-app)
 
 </td>
 
