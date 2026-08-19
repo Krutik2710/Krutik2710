@@ -2,7 +2,7 @@
 
 <br>
 
-## A little about me
+## 🧑‍💻 A little about me
 
 I work on the infrastructure most people never think about — until it breaks.
 
