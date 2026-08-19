@@ -1,6 +1,6 @@
 <img src="assets/profile/profile-hero.png" width="100%" alt="Krutik — Cloud Infrastructure & DevOps Engineer">
 
-<br>
+---
 
 ## 🧑‍💻 A little about me
 
