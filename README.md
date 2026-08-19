@@ -51,19 +51,15 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ---
 
----
-
 ## 📫 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-handle">
     <img src="assets/profile/linkedin.png" width="85" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:krutiku2710@gmail.com">
     <img src="assets/profile/gmail.png" width="80" alt="Gmail">
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Krutik2710">
     <img src="assets/profile/github.png" width="80" alt="GitHub">
   </a>
