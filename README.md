@@ -24,17 +24,7 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 
 ## 🚀 Featured Projects
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Krutik2710/ai-platform">
-        <img src="assets/profile/rag-platform.png" width="100%" alt="Cloud-Native RAG Platform">
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Krutik2710/flask-postgresql-todo-app">
-        <img src="assets/profile/flask-eks.png" width="100%" alt="Flask PostgreSQL GitOps on EKS">
-      </a>
-    </td>
-  </tr>
-</table>
+[<img src="assets/profile/rag-platform.png" width="49%" alt="Cloud-Native RAG Platform">](https://github.com/Krutik2710/ai-platform)
+[<img src="assets/profile/flask-eks.png" width="49%" alt="Flask PostgreSQL GitOps on EKS">](https://github.com/Krutik2710/flask-postgresql-todo-app)
+
+---
