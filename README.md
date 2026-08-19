@@ -60,7 +60,7 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
     <img src="assets/profile/linkedin.png" width="85" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:krutiku2710@gmail.com">
     <img src="assets/profile/gmail.png" width="80" alt="Gmail">
   </a>
   &nbsp;&nbsp;
@@ -68,3 +68,8 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
     <img src="assets/profile/github.png" width="80" alt="GitHub">
   </a>
 </p>
+
+---
+
+<img width="1200" height="480" alt="a3ftzqi7ide71" src="https://github.com/user-attachments/assets/c30331a3-e60f-422f-a90a-aae22c8ffe41" />
+
