@@ -11,3 +11,7 @@ Currently a **Cloud Infrastructure & Operations Engineer at Cloud4C (Capgemini)*
 I work across **AWS, Kubernetes, Docker, Terraform, GitOps, CI/CD, and observability**, and I'm actively building toward **SRE, Platform Engineering, and DevOps** roles.
 
 I hold the **AWS Certified Solutions Architect – Associate** and **Certified Kubernetes Administrator (CKA)** certifications, and I'm continuously exploring cloud-native architecture and AI infrastructure.
+
+### CURRENTLY EXPLORING
+
+`Kubernetes` · `Platform Engineering` · `SRE` · `Cloud-Native Architecture` · `AI Infrastructure`
