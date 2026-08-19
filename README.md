@@ -1,7 +1,5 @@
 <img src="assets/profile/profile-hero.png" width="100%" alt="Krutik — Cloud Infrastructure & DevOps Engineer">
 
----
-
 ## 🧑‍💻 A little about me
 
 I work on the infrastructure most people never think about — until it breaks.
@@ -15,3 +13,5 @@ I hold the **AWS Certified Solutions Architect – Associate** and **Certified K
 ### CURRENTLY EXPLORING
 
 `Kubernetes` · `Platform Engineering` · `SRE` · `Cloud-Native Architecture` · `AI Infrastructure`
+
+<img src="assets/profile/tech-stack.png" width="100%" alt="Krutik's technical stack">
